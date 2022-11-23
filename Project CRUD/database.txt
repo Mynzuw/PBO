@@ -1,0 +1,7 @@
+fiersabesari_2012_1,2012,fiersa besari,media kita,jejak langkah
+PramoedyaAnantatoer_2001_1,2001,Pramoedya Anantatoer,Gramedia,Bumi Manusia
+purcell_2009_1,2009,purcell,wiley,calculus
+miftahadha_2019_1,2019,miftah adha,gramedia,belajar C
+miftahadha_2019_2,2019,miftah adha,gramedia,belajar python
+miftahadha_2019_3,2019,miftah adha,gramedia,belajar HTML
+mynzuw_2022_1,2022,mynzuw,soonyang,reborn rich
